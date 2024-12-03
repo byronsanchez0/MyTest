@@ -44,4 +44,6 @@
     <string name="add_description">Add description item</string>
     <string name="add_title">Add title item\n</string>
     <string name="save">Save Item</string>
+    <string name="delete">Delete</string>
+    <string name="udpate_item">Update Item</string>
 </resources>
